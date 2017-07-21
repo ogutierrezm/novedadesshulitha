@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1281" measuredH="799" mockupW="978" mockupH="734">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="303" y="65" w="803" h="734" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sistema%20de%20control%20-%20Diversiones%0Ahttp%3A//localhost/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="1173" y="479" w="-1" h="-1" measuredW="108" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inventario</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1088" y="138" w="-1" h="499" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Accordion" x="303" y="168" w="150" h="140" measuredW="150" measuredH="267" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>5</selectedIndex>
+        <text>Men%FA%20%0ACapturar%20pedido%0ARecibir%20pedido%0AInventario%0AReportes%0A-%20Inventario%0A-%20Pedidos%20pendientes</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Accordion" x="304" y="383" w="150" h="416" measuredW="150" measuredH="105" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Administraci%F3n%0A-%20Usuarios%0A-%20Zonas/Colonias</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="451" y="168" w="640" h="610" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reportes%20-%20Inventario</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::VSplitter" x="306" y="160" w="782" h="-1" measuredW="100" measuredH="11" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::ModalScreen" x="453" y="192" w="635" h="584" measuredW="320" measuredH="240" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="898" y="138" w="-1" h="-1" measuredW="190" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Bienvenido%20Juan%20Perez</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="338" y="140" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mi%20empresa</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="309" y="140" w="26" h="20" measuredW="256" measuredH="256" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>https%3A//www.drupal.org/files/project-images/logo_96.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="949" y="652" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <text>Imprimir</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::VCurly" x="1120" y="65" w="53" h="734" measuredW="180" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::DataGrid" x="522" y="227" w="498" h="410" measuredW="348" measuredH="137" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <alternateRowColor>15134199</alternateRowColor>
+        <bold>false</bold>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <hLines>true</hLines>
+        <rowHeight>20</rowHeight>
+        <selectedIndex>1</selectedIndex>
+        <text>Sku%2C%20Articulos%20%2C%20Precio%2CCantidad%2C%20Articulo.%5CrEspecial%20%0A30001%2CMesa%20redonda%2C%20%24100%2C20%2C%5B%5D%0A40501%2CManteles%2C%20%2425%2C6%2C%5B%5D%0A43501%2CKaraoke%2C%20%24123%2C%2012%2C%5B%5D%0A43521%2CToro%20mecanico%2C%20%2434%2C%203%2C%5Bx%5D%0A43111%2CBrincolin%2C%20%24324%2C%203%2C%5Bx%5D%0A%7B10L%2C%200R%2C%2020%7D</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+        <vLines>true</vLines>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

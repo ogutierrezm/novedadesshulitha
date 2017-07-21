@@ -1,0 +1,13 @@
+	var vId_puesto = null;
+	var vKeyx = null;
+	obtenerFolioOrden();
+	consultarComboUsuarios();
+	consultaUnUsuario(uUser);
+	var listInventario = null;
+	cmbArticulosExistencia();
+	cmbTipoPago();
+	cmbVendedor();
+	cmbSupervisor();
+	var diasSumarPrimerCobro = variables_select(3,1);
+	console.log(diasSumarPrimerCobro['valor']);
+	$('#diasSumarPrimerCobro').val(diasSumarPrimerCobro['valor']);

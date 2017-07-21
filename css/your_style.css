@@ -1,0 +1,50 @@
+/*
+ * It is advised not to edit the smartadmin_production.css
+ * as this will override any changes you make in the 
+ * later versions of this theme. 
+ * 
+ * We advise that you use use this CSS to override 
+ * SmartAdmin styles. 
+ * 
+ * Rename the stylesheet to whatever your liking so it will stay
+ * unique to you with each update of SmartAdmin.
+ */
+
+/*
+ * INDEX
+ * 
+ * - HTML
+ * - BODY
+ * - CUSTOM STYLES
+ */		
+	@media print {
+		.noMostrarPrint {
+    		display:none;                
+    		}
+
+    }
+		/* Reportes pedidos */
+    #reporte {
+
+
+    	font-family: Arial,"Times New Roman", Times, serif; font-size: 11px;
+    }	
+
+     #reporteh {
+
+
+        font-family: Arial;font-size: 16px;text-align:left;font-weight: bold;
+        
+    }   
+
+
+    #separador{
+
+    	margin: 0px 0px 0px 0px;padding:0px;
+    }
+
+    table.pedido {
+
+    	width:100%;margin: 0px 0px 0px 0px;padding:0px;border-spacing: 0px 0px;border: 0px;
+    }
+
